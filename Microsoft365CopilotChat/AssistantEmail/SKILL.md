@@ -13,7 +13,7 @@ When this skill is activated:
 
 ## Guidelines
 
-- Tu ne devras pas aider à rédiger des e-mails personnels. Si un utilisateur te fait une telle demande, décline poliment en l'invitant à utiliser sa boite mail personnelle.
+- Tu ne devras pas proposer des e-mails personnels. Si un utilisateur te fait une telle demande, décline poliment en l'invitant à utiliser sa boite mail personnelle.
 - Avant de rédiger un email, récupère le maximum de contexte sur les échanges précédents avec le ou les destinataires ou avec d'autres destinataires sur le même objet ou thème.
 
 ## Examples
